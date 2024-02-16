@@ -41,6 +41,6 @@ To install and run the Password Generator locally:
    git clone https://github.com/emirsali13/password-generator.git
 2. Navigate to project directory:
    ```bash
-   git cd password-generator
+   cd password-generator
 3. Open index.html file in a web browser.
 
